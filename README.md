@@ -20,7 +20,7 @@ Excited to share my latest project – a sleek and user-friendly Weather App! �
 
 Check it out and let me know your thoughts! [Link to your app or project repository]
 
-Excited to continue exploring new horizons in the world of app development. Open to collaboration and feedback! 🚀
+Excited to continue exploring new horizons in the world of app development. 
 
 #AppDevelopment #Innovation #TechEnthusiast #AndroidDev
 
